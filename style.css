@@ -1,0 +1,23 @@
+body {
+    padding-left: 5rem;
+    padding-right: 8rem;
+}
+.Name {
+ text-align: center;
+ margin-bottom: 100px;
+}
+.Objectives p {
+    margin-bottom: 60px;
+}
+.college li {
+    margin-bottom: 15px;
+}
+.college {
+    margin-bottom: 60px;
+}
+.Certification {
+    margin-top: 60px;
+}
+.Hobbies {
+    margin-top: 60px;
+}
